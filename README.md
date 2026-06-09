@@ -883,5 +883,3 @@ For inquiries or support, please refer to your project documentation or contact 
 
 ---
 
-_This README covers the complete Driver License School Management System. For more detailed information, please refer to specific documentation files in the project directories._
-"# -Driver-License-School-Management-System"
